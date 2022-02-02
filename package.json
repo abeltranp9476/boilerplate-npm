@@ -1,6 +1,6 @@
-{
-	"author": "Ariel Beltrán Paneque",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ariel Beltrán Paneque",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
